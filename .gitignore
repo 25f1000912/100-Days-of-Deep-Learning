@@ -1,0 +1,28 @@
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Virtual environments
+venv/
+.venv/
+
+# Datasets and trained models
+data/
+datasets/
+*.pth
+*.pt
+*.ckpt
+
+# Temporary files
+.DS_Store
+*.log
+
+# Environment variables
+.env
